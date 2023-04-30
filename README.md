@@ -1,7 +1,4 @@
-### Hi there 👋
 
-<!--
-**PamanesSebastian/PamanesSebastian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ¡Hola! Mi nombre completo es Fernando Sebastian Pamanes Morales. Actualmente soy un desarrolldor de Software nivel JR, estoy especielmente interesado en el desarrollo web con un enfoque actual en el Front-end pero en un futuro tengo como meta el desarrollo web orientado a Full-stack, si te gustaria saber un poco mas sobre mi sigue en esta pagina y descarga mi CV
 
